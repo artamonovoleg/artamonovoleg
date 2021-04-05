@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://media.giphy.com/media/26BGtEmjcrxkOsYr6/giphy.gif) 
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=artamonovoleg&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artamonovoleg&layout=compact&theme=dracula)
  
